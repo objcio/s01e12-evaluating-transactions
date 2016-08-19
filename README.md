@@ -1,2 +1,3 @@
 # s01e12-evaluating-transactions
-Sample Code for Episode 12
+
+This is the sample code for https://talk.objc.io/episodes/S01E12-evaluating-transactions
